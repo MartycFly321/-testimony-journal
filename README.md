@@ -29,9 +29,6 @@ Receive daily verse recommendations based on your journal content, mood, and cha
 ### 🧠 AI-Powered Insights
 Our AI analyzes your writing (locally and securely) to suggest helpful next steps rooted in scripture and personal well-being.
 
-### 🕊️ Private and Secure
-Everything you write stays private unless you choose to share. Your data is encrypted and never sold.
-
 ### 📈 Growth Tracking
 Track your journalling streak, reflect on past entries, and see your spiritual progress over time.
 
