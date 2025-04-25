@@ -1,4 +1,4 @@
-Privacy Policy – Testimony Journalling App
+## Privacy Policy – Testimony Journalling App
 
 Last updated: April 25, 2025
 
