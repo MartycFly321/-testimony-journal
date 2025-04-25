@@ -54,7 +54,7 @@ Track your journalling streak, reflect on past entries, and see your spiritual p
 ---
 
 ## 🔐 Respecting Your Privacy
-We believe your spiritual journey is personal. Testimony will never share your journal entries. Learn more in our [Privacy Policy](#) and [Terms of Service](#).
+We believe your spiritual journey is personal. Testimony will never share your journal entries. Learn more in our [Privacy Policy](#privacy-policy.md) and [Terms of Service](#terms-of-service.md).
 
 ---
 
