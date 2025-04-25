@@ -27,7 +27,7 @@ Write freely or use suggested prompts based on your mood, time of day, and growt
 Receive daily verse recommendations based on your journal content, mood, and challenges.
 
 ### 🧠 AI-Powered Insights
-Our AI analyzes your writing (locally and securely) to suggest helpful next steps rooted in scripture and personal well-being.
+Our AI analyzes your writing to suggest helpful next steps rooted in scripture and personal well-being.
 
 ### 📈 Growth Tracking
 Track your journalling streak, reflect on past entries, and see your spiritual progress over time.
@@ -54,7 +54,8 @@ Track your journalling streak, reflect on past entries, and see your spiritual p
 ---
 
 ## 🔐 Respecting Your Privacy
-We believe your spiritual journey is personal. Testimony will never share your journal entries. Learn more in our [Privacy Policy](#privacy-policy.md) and [Terms of Service](#terms-of-service.md).
+We believe your spiritual journey is personal. Testimony will never share your journal entries. Learn more in our [Privacy Policy](https://github.com/MartycFly321/-testimony-journal/blob/main/privacy-policy.md) and [Terms of Service](https://github.com/MartycFly321/-testimony-journal/blob/main/terms-of-service.md).
+
 
 ---
 
