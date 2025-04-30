@@ -62,6 +62,8 @@ We believe your spiritual journey is personal. Testimony will never share your j
 ## 📥 Get Started
 Start your journalling journey today. Download Testimony and reflect with purpose.
 
+👉 **Delete your data?** Email us at [martijnpublicdev@gmail.com](mailto:martijnpublicdev@gmail.com)
+
 👉 **Need help or have feedback?** Email us at [martijnpublicdev@gmail.com](mailto:martijnpublicdev@gmail.com)
 
 ---
