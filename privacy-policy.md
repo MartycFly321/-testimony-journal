@@ -11,7 +11,7 @@ This privacy policy explains what information we collect, why we collect it, and
 Testimony is a mobile journalling app designed to support daily reflection through writing, Bible-based guidance, and personalized suggestions for mental, physical, and spiritual well-being. This privacy policy applies to the app and any related services or platforms.
 
 
-### 🇳🇱 Built in the Netherlands and Guatemala, with ❤️ and prayer
+### 🇳🇱 Built in the Netherlands and Guatemala 🇬🇹, with ❤️ and prayer
 Created by a Christian developer and designer from the Netherlands and Guatemala, Testimony is designed to help believers around the world reflect more deeply and walk more closely with God.
 
 
