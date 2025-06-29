@@ -5,8 +5,8 @@ Testimony is a Christian journalling app that helps you grow spiritually, mental
 
 ---
 
-🇳🇱 Built in the Netherlands, with ❤️ and prayer
-Created by a Christian developer from the Netherlands, Testimony is designed to help believers around the world reflect more deeply and walk more closely with God.
+🇳🇱 Built in the Netherlands and Guatemala, with ❤️ and prayer
+Created by a Christian developer and designer from the Netherlands and Guatemala, Testimony is designed to help believers around the world reflect more deeply and walk more closely with God.
 
 ---
 
